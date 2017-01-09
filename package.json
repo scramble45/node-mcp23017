@@ -10,6 +10,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "i2c": "https://github.com/kelly/node-i2c.git"
+    "i2c": "https://github.com/scramble45/i2cjs.git"
   }
 }
